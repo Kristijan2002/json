@@ -1,0 +1,341 @@
+{
+  "eventCard": {
+    "mk": {
+      "when": "Наскоро",
+      "title": "Нижеме заедно",
+      "paragraph": "Проектот „Еднакви можности за девојчињата и младите жени во Северна Македонија” го спроведуваат Националниот младински совет на Македонија и Stella Network, со финансиска поддршка од страна на Британската амбасада во Скопје. ",
+      "seeMoreBtn": "Види Повеќе",
+      "signUp": "Пријави се!",
+      "locationAndTime": "Градски парк, Скопје, 14:00",
+      "day": "23",
+      "month": "Септ"
+    },
+    "en": {
+      "when": "Recently",
+      "title": "We're Moving Forward Together",
+      "paragraph": "The project “Equal Opportunities for Girls and Young Women in North Macedonia” is implemented by the National Youth Council of Macedonia and Stella Network, with financial support from the British Embassy in Skopje.",
+      "seeMoreBtn": "See More",
+      "signUp": "Sign Up!",
+      "locationAndTime": "City Park, Skopje, 14:00",
+      "day": "23",
+      "month": "Sept"
+    }
+  },
+  
+  "news": {
+
+      "mk":[
+          {
+            "id": "1",
+            "img": "/homePageCards/homepage_card_2.jpg",
+            "type": "АКТИВНОСТ ECO-ACTION",
+            "date": "25.08.2023",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
+            "btn": "Види Повеќе",
+            "status": "Тековен"
+          },
+          {
+            "id": "2",
+            "img": "/homePageCards/homepage_card_3.jpg",
+            "type": "ESC Volunteers",
+            "date": "15.08.2023 - 21.08.2023",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
+            "btn": "Види Повеќе",
+            "status": "Завршен"
+          },
+          {
+              "id": "3",
+              "img": "/homePageCards/homepage_card_4.jpg",
+              "type": "ЛЕТЕН КАМП",
+              "date": "20.09.2023",
+              "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
+              "btn": "Види Повеќе",
+              "status": "Завршен"
+            },
+            {
+              "id": "4",
+              "img": "/homePageCards/homepage_card_2.jpg",
+              "type": "BUILD YOUR STRENGTH",
+              "date": "07.07.2023",
+              "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
+              "btn": "Види Повеќе",
+              "status": "Тековен"
+            }
+          ],
+      "en":[
+        {
+          "id": "1",
+          "img": "/homePageCards/homepage_card_2.jpg",
+          "type": "ECO-ACTION ACTIVITY",
+          "date": "25.08.2023",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
+          "btn": "See More",
+          "status": "Current"
+        },
+        {
+          "id": "2",
+          "img": "/homePageCards/homepage_card_3.jpg",
+          "type": "ESC Volunteers",
+          "date": "15.08.2023 - 21.08.2023",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
+          "btn": "See More",
+          "status": "Completed"
+        },
+        {
+          "id": "3",
+          "img": "/homePageCards/homepage_card_4.jpg",
+          "type": "SUMMER CAMP",
+          "date": "20.09.2023",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
+          "btn": "See More",
+          "status": "Completed"
+        },
+        {
+          "id": "4",
+          "img": "/homePageCards/homepage_card_2.jpg",
+          "type": "BUILD YOUR STRENGTH",
+          "date": "07.07.2023",
+          "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
+          "btn": "See More",
+          "status": "Current"
+        }
+            ]
+  },
+
+  "aboutUsFAQ":{
+      "mk": [
+        {
+          "id": "1",
+          "question": "01  Lorem ipsum",
+          "answer": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet."
+        },
+        {
+          "id": "2",
+          "question": "02  Lorem ipsum",
+          "answer": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet."
+        },
+        {
+          "id": "3",
+          "question": "03  Lorem ipsum",
+          "answer": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet."
+        },
+        {
+          "id": "4",
+          "question": "04  Lorem ipsum",
+          "answer": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet."
+        },
+        {
+          "id": "5",
+          "question": "05  Lorem ipsum",
+          "answer": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet."
+        }
+      ],
+      "en":[
+        {
+          "id": "1",
+          "question": "01  Lorem ipsum",
+          "answer": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet."
+        },
+        {
+          "id": "2",
+          "question": "02  Lorem ipsum",
+          "answer": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet."
+        },
+        {
+          "id": "3",
+          "question": "03  Lorem ipsum",
+          "answer": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet."
+        },
+        {
+          "id": "4",
+          "question": "04  Lorem ipsum",
+          "answer": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet."
+        },
+        {
+          "id": "5",
+          "question": "05  Lorem ipsum",
+          "answer": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut. Turpis viverra mauris adipiscing ornare etiam ipsum pretium. Ornare aenean adipiscing nunc dolor vitae vel sem aliquet."
+        }
+      ]
+  },
+
+
+
+"volunteers":{
+  "mk": [
+    {
+      "id": "1",
+      "fullName": "Идил Абес",
+      "yearsAndCountry": "20 Години, Турција",
+      "description": "Здраво! Јас сум Идил. Имам 20 години и студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, така да сум многу возбудена за работата и времето што ќе го поминам со други доброволци. Обожавам тимски проекти и заедничко делување. Исто така, ми се допаѓа Македонија и Скопје. Овој град има прекрасна природа и статуи. Се чудам како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од различни култури.",
+      "img": "/volunteers/1-Idil-Abes.png"
+    },
+    {
+      "id": "2",
+      "fullName": "Мелих Фуркан Орта",
+      "yearsAndCountry": "22 Години, Турција",
+      "description": "Здраво! Јас сум Мелих. Имам 22 години и студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, така што сум многу возбуден за работата и времето со други доброволци. Обожавам тимски проекти и заедничко делување. Исто така, ми се допаѓа Македонија и Скопје. Овој град има прекрасна природа и статуи. Се чудам како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од различни култури.",
+      "img": "/volunteers/2-Melih-Furkan-Orta.png"
+    },
+    {
+      "id": "3",
+      "fullName": "Бедирхан Севим",
+      "yearsAndCountry": "22 Години, Турција",
+      "description": "Здраво! Јас сум Бедирхан. Имам 22 години и студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, така што сум многу возбуден за работата и времето со други доброволци. Обожавам тимски проекти и заедничко делување. Исто така, ми се допаѓа Македонија и Скопје. Овој град има прекрасна природа и статуи. Се чудам како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од различни култури.",
+      "img": "/volunteers/3-Bedirhan-Sevim.png"
+    },
+    {
+      "id": "4",
+      "fullName": "Зејнеп Чебеци",
+      "yearsAndCountry": "20 Години, Турција",
+      "description": "Здраво! Јас сум Зејнеп. Имам 20 години и студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, така што сум многу возбуден за работата и времето со други доброволци. Обожавам тимски проекти и заедничко делување. Исто така, ми се допаѓа Македонија и Скопје. Овој град има прекрасна природа и статуи. Се чудам како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од различни култури.",
+      "img": "/volunteers/4-Zeynep-Cebeci.png"
+    },
+    {
+      "id": "5",
+      "fullName": "Мерве Озкан",
+      "yearsAndCountry": "18 Години, Турција",
+      "description": "Здраво! Јас сум Мерве. Имам 18 години и студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, така што сум многу возбудена за работата и времето со други доброволци. Обожавам тимски проекти и заедничко делување. Исто така, ми се допаѓа Македонија и Скопје. Овој град има прекрасна природа и статуи. Се чудам како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од различни култури.",
+      "img": "/volunteers/5-Merve-Ozkan.png"
+    },
+    {
+      "id": "6",
+      "fullName": "Мелек Чакан",
+      "yearsAndCountry": "20 Години, Турција",
+      "description": "Здраво! Јас сум Мелек. Имам 20 години и студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, така што сум многу возбудена за работата и времето со други доброволци. Обожавам тимски проекти и заедничко делување. Исто така, ми се допаѓа Македонија и Скопје. Овој град има прекрасна природа и статуи. Се чудам како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од различни култури.",
+      "img": "/volunteers/6-Melek Cakan.png"
+    },
+    {
+      "id": "7",
+      "fullName": "Мелиса Пекташ",
+      "yearsAndCountry": "23 Години, Турција",
+      "description": "Здраво! Јас сум Мелиса. Имам 23 години и студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, така што сум многу возбудена за работата и времето со други доброволци. Обожавам тимски проекти и заедничко делување. Исто така, ми се допаѓа Македонија и Скопје. Овој град има прекрасна природа и статуи. Се чудам како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од различни култури.",
+      "img": "/volunteers/7-Melisa-Pektaş.png"
+    },
+    {
+      "id": "8",
+      "fullName": "Манон Лакост",
+      "yearsAndCountry": "21 Години, Турција",
+      "description": "Здраво! Јас сум Манон. Имам 21 година и студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, така што сум многу возбудена за работата и времето со други доброволци. Обожавам тимски проекти и заедничко делување. Исто така, ми се допаѓа Македонија и Скопје. Овој град има прекрасна природа и статуи. Се чудам како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од различни култури.",
+      "img": "/volunteers/8-Manon Lacoste.png"
+    },
+    {
+      "id": "9",
+      "fullName": "Лиза Симоне",
+      "yearsAndCountry": "24 Години, Турција",
+      "description": "Здраво! Јас сум Лиза. Имам 24 години и студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, така што сум многу возбудена за работата и времето со други доброволци. Обожавам тимски проекти и заедничко делување. Исто така, ми се допаѓа Македонија и Скопје. Овој град има прекрасна природа и статуи. Се чудам како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од различни култури.",
+      "img": "/volunteers/9-Lisa Simone.png"
+    },
+    {
+      "id": "10",
+      "fullName": "Каан Алгин",
+      "yearsAndCountry": "23 Години, Турција",
+      "description": "Здраво! Јас сум Каан. Имам 23 години и студирам право во Турција, Истанбул.Ова е моето прво искуство во проект како овој, така што сум многу возбудена за работата и времето со други доброволци. Обожавам тимски проекти и заедничко делување. Исто така, ми се допаѓа Македонија и Скопје. Овој град има прекрасна природа и статуи. Се чудам како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од различни култури.",
+      "img": "/volunteers/10-Kaan-Alğın.png"
+    },
+    {
+      "id": "11",
+      "fullName": "Метехан Чам",
+      "yearsAndCountry": "23 Години, Турција",
+      "description": "Здраво! Јас сум Метехан. Имам 23 години. Студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, па сум многу возбуден за работата и времето со другите волонтери. Обожавам тимски проекти и заедничко работење. Исто така, ми се допадна Македонија и Скопје. Градот има прекрасна природа и статуи. Чудам се како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од други култури.",
+      "img": "/volunteers/11-Metehan-Cam.png"
+  },
+  {
+      "id": "12",
+      "fullName": "Али Карабај",
+      "yearsAndCountry": "29 Години, Турција",
+      "description": "Здраво! Јас сум Али. Имам 29 години. Студирам право во Турција, Истанбул. Ова е моето прво искуство во проект како овој, па сум многу возбуден за работата и времето со другите волонтери. Обожавам тимски проекти и заедничко работење. Исто така, ми се допадна Македонија и Скопје. Градот има прекрасна природа и статуи. Чудам се како ќе работиме и како ќе поминеме неверојатно време со другите кога ќе се запознаеме со нови луѓе од други култури.",
+      "img": "/volunteers/12-Ali-Karabay.png"
+  }
+  ],
+  "en":[
+    {
+      "id": "1",
+      "fullName": "Idil Abes",
+      "yearsAndCountry": "20 Years, Turkey",
+      "description": "Hello! I’m Idil. I am 20. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/1-Idil-Abes.png"
+    },
+    {
+      "id": "2",
+      "fullName": "Melih Furkan Orta",
+      "yearsAndCountry": "22 Years, Turkey",
+      "description": "Hello! I’m Melih. I am 22. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/2-Melih-Furkan-Orta.png"
+    },
+    {
+      "id": "3",
+      "fullName": "Bedirhan Sevim",
+      "yearsAndCountry": "22 Years, Turkey",
+      "description": "Hello! I’m Bedirhan. I am 22. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/3-Bedirhan-Sevim.png"
+    },
+    {
+      "id": "4",
+      "fullName": "Zeynep Cebeci",
+      "yearsAndCountry": "20 Years, Turkey",
+      "description": "Hello! I’m Zeynep. I am 20. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/4-Zeynep-Cebeci.png"
+    },
+    {
+      "id": "5",
+      "fullName": "Merve Ozkan",
+      "yearsAndCountry": "18 Years, Turkey",
+      "description": "Hello! I’m Merve. I am 18. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/5-Merve-Ozkan.png"
+    },
+    {
+      "id": "6",
+      "fullName": "Melek Cakan",
+      "yearsAndCountry": "20 Years, Turkey",
+      "description": "Hello! I’m Melek. I am 20. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/6-Melek Cakan.png"
+    },
+    {
+      "id": "7",
+      "fullName": "Melisa Pektaş",
+      "yearsAndCountry": "23 Years, Turkey",
+      "description": "Hello! I’m Melisa. I am 23. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/7-Melisa-Pektaş.png"
+    },
+    {
+      "id": "8",
+      "fullName": "Manon Lacoste",
+      "yearsAndCountry": "21 Years, Turkey",
+      "description": "Hello! I’m Manon. I am 21. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/8-Manon Lacoste.png"
+    },
+    {
+      "id": "9",
+      "fullName": "Lisa Simone",
+      "yearsAndCountry": "24 Years, Turkey",
+      "description": "Hello! I’m Lisa. I am 24. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/9-Lisa Simone.png"
+    },
+    {
+      "id": "10",
+      "fullName": "Kaan Alğın",
+      "yearsAndCountry": "23 Years, Turkey",
+      "description": "Hello! I’m Kaan. I am 23. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/10-Kaan-Alğın.png"
+    },
+    {
+      "id": "11",
+      "fullName": "Metehan Cam",
+      "yearsAndCountry": "23 Years, Turkey",
+      "description": "Hello! I’m Metehan. I am 23. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/11-Metehan-Cam.png"
+    },
+    {
+      "id": "12",
+      "fullName": "Ali Karabay",
+      "yearsAndCountry": "29 Years, Turkey",
+      "description": "Hello! I’m Ali. I am 29. I am studying in department of law in Turkey, Istanbul. This is my first experience in project like this one so I am pretty excited about working and spending time with other volunteers. I love team projects and doing something together. Also I liked Macedonia and Skopje. This city has great nature and statues. I wonder how we will work and spending amazing time with others when I meet with new people from other cultures.",
+      "img": "/volunteers/12-Ali-Karabay.png"
+    }
+  ]
+}
+
+
+
+}
