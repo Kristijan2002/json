@@ -344,21 +344,24 @@
       "fullName": "Игор Димовски",
       "workingPosition": "Координатор за волонтери во ЦМА - Крик",
       "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
-      "img": "/ourTeam/igor-dimovski.jpg"
+      "img": "/ourTeam/igor-dimovski.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut.Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut."
     },
     {
       "id": "2",
       "fullName": "Сара Димоска",
       "workingPosition": "Координатор во ЦМА Крик",
       "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
-      "img": "/ourTeam/sara-dimoska.jpg"
+      "img": "/ourTeam/sara-dimoska.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut.Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut."
     },
     {
       "id": "3",
       "fullName": "Матео Тренкоски",
       "workingPosition": "практикант во ЦМА Крик",
       "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
-      "img": "/ourTeam/mateo-trenkoski.jpg"
+      "img": "/ourTeam/mateo-trenkoski.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut.Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut."
     }
 
   ],
@@ -368,21 +371,24 @@
       "fullName": "Igor Dimovski",
       "workingPosition": "Volunteer Coordinator at CMA - Krik",
       "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
-      "img": "/ourTeam/igor-dimovski.jpg"
+      "img": "/ourTeam/igor-dimovski.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut.Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut."
     },
     {
       "id": "2",
       "fullName": "Sara Dimoska",
       "workingPosition": "Coordinator at CMA Krik",
       "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
-      "img": "/ourTeam/sara-dimoska.jpg"
+      "img": "/ourTeam/sara-dimoska.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut.Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut."
     },
     {
       "id": "3",
       "fullName": "Mateo Trenkoski",
       "workingPosition": "Intern at CMA Krik",
       "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
-      "img": "/ourTeam/mateo-trenkoski.jpg"
+      "img": "/ourTeam/mateo-trenkoski.jpg",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut.Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut."
     }
   ]
 },
