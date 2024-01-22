@@ -334,6 +334,57 @@
       "img": "/volunteers/12-Ali-Karabay.png"
     }
   ]
+},
+
+
+"ourTeam": {
+  "mk": [
+    {
+      "id": "1",
+      "fullName": "Игор Димовски",
+      "workingPosition": "Координатор за волонтери во ЦМА - Крик",
+      "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
+      "img": "/ourTeam/igor-dimovski.jpg"
+    },
+    {
+      "id": "2",
+      "fullName": "Сара Димоска",
+      "workingPosition": "Координатор во ЦМА Крик",
+      "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
+      "img": "/ourTeam/sara-dimoska.jpg"
+    },
+    {
+      "id": "3",
+      "fullName": "Матео Тренкоски",
+      "workingPosition": "практикант во ЦМА Крик",
+      "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
+      "img": "/ourTeam/mateo-trenkoski.jpg"
+    }
+
+  ],
+  "en":[
+    {
+      "id": "1",
+      "fullName": "Igor Dimovski",
+      "workingPosition": "Volunteer Coordinator at CMA - Krik",
+      "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
+      "img": "/ourTeam/igor-dimovski.jpg"
+    },
+    {
+      "id": "2",
+      "fullName": "Sara Dimoska",
+      "workingPosition": "Coordinator at CMA Krik",
+      "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
+      "img": "/ourTeam/sara-dimoska.jpg"
+    },
+    {
+      "id": "3",
+      "fullName": "Mateo Trenkoski",
+      "workingPosition": "Intern at CMA Krik",
+      "linkedIn": "https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/",
+      "img": "/ourTeam/mateo-trenkoski.jpg"
+    }
+  ]
 }
 
 
