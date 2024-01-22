@@ -385,6 +385,57 @@
       "img": "/ourTeam/mateo-trenkoski.jpg"
     }
   ]
+},
+
+
+
+"menagmentBoard": {
+  "mk": [
+    {
+      "id": "4",
+      "fullName": "Lorem ipsum dolor sit ",
+      "workingPosition": "Intern at CMA Krik",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut.",
+      "img": "/menagmentBoard/Rectangle 69.png"
+    },
+    {
+      "id": "5",
+      "fullName": "Lorem ipsum dolor sit ",
+      "workingPosition": "Intern at CMA Krik",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper.",
+      "img": "/menagmentBoard/Rectangle 69 (1).png"
+    },
+    {
+      "id": "6",
+      "fullName": "Lorem ipsum dolor sit ",
+      "workingPosition": "Intern at CMA Krik",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. ",
+      "img": "/menagmentBoard/Rectangle 70.png"
+    }
+  ],
+  "en": [
+    {
+      "id": "4",
+      "fullName": "Lorem ipsum dolor sit ",
+      "workingPosition": "Intern at CMA Krik",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper. Dictumst viverra semper scelerisque proin nisl luctus vitae ut.",
+      "img": "/menagmentBoard/Rectangle 69.png"
+    },
+    {
+      "id": "5",
+      "fullName": "Lorem ipsum dolor sit ",
+      "workingPosition": "Intern at CMA Krik",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper.",
+      "img": "/menagmentBoard/Rectangle 69 (1).png"
+    },
+    {
+      "id": "6",
+      "fullName": "Lorem ipsum dolor sit ",
+      "workingPosition": "Intern at CMA Krik",
+      "description": "Lorem ipsum dolor sit amet consectetur. Eu morbi sed sollicitudin eu ut. Congue dictum nibh non sodales est. Id dolor eu purus cursus elit. Sed eleifend facilisis morbi risus ullamcorper.",
+      "img": "/menagmentBoard/Rectangle 70.png"
+    }
+  ]
 }
 
 
