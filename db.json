@@ -27,7 +27,7 @@
       "mk":[
           {
             "id": "1",
-            "img": "/homePageCards/homepage_card_2.jpg",
+            "img": "https://ik.imagekit.io/egu9w5hi1/krik/public/homePageCards/homepage_card_2.jpg?updatedAt=1706273592913",
             "type": "АКТИВНОСТ ECO-ACTION",
             "date": "25.08.2023",
             "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
@@ -36,7 +36,7 @@
           },
           {
             "id": "2",
-            "img": "/homePageCards/homepage_card_3.jpg",
+            "img": "https://ik.imagekit.io/egu9w5hi1/krik/public/homePageCards/homepage_card_3.jpg?updatedAt=1706273592740",
             "type": "ESC Volunteers",
             "date": "15.08.2023 - 21.08.2023",
             "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
@@ -45,7 +45,7 @@
           },
           {
               "id": "3",
-              "img": "/homePageCards/homepage_card_4.jpg",
+              "img": "https://ik.imagekit.io/egu9w5hi1/krik/public/homePageCards/homepage_card_4.jpg?updatedAt=1706273592788",
               "type": "ЛЕТЕН КАМП",
               "date": "20.09.2023",
               "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
@@ -54,7 +54,7 @@
             },
             {
               "id": "4",
-              "img": "/homePageCards/homepage_card_2.jpg",
+              "img": "https://ik.imagekit.io/egu9w5hi1/krik/public/homePageCards/homepage_card_2.jpg?updatedAt=1706273592913",
               "type": "BUILD YOUR STRENGTH",
               "date": "07.07.2023",
               "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
@@ -65,7 +65,7 @@
       "en":[
         {
           "id": "1",
-          "img": "/homePageCards/homepage_card_2.jpg",
+          "img": "https://ik.imagekit.io/egu9w5hi1/krik/public/homePageCards/homepage_card_2.jpg?updatedAt=1706273592913",
           "type": "ECO-ACTION ACTIVITY",
           "date": "25.08.2023",
           "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
@@ -74,7 +74,7 @@
         },
         {
           "id": "2",
-          "img": "/homePageCards/homepage_card_3.jpg",
+          "img": "https://ik.imagekit.io/egu9w5hi1/krik/public/homePageCards/homepage_card_3.jpg?updatedAt=1706273592740",
           "type": "ESC Volunteers",
           "date": "15.08.2023 - 21.08.2023",
           "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
@@ -83,7 +83,7 @@
         },
         {
           "id": "3",
-          "img": "/homePageCards/homepage_card_4.jpg",
+          "img": "https://ik.imagekit.io/egu9w5hi1/krik/public/homePageCards/homepage_card_4.jpg?updatedAt=1706273592788",
           "type": "SUMMER CAMP",
           "date": "20.09.2023",
           "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
@@ -92,7 +92,7 @@
         },
         {
           "id": "4",
-          "img": "/homePageCards/homepage_card_2.jpg",
+          "img": "https://ik.imagekit.io/egu9w5hi1/krik/public/homePageCards/homepage_card_2.jpg?updatedAt=1706273592913",
           "type": "BUILD YOUR STRENGTH",
           "date": "07.07.2023",
           "paragraph": "Lorem ipsum dolor sit amet consectetur. Curabitur cursus quis id.",
